@@ -1,2 +1,2 @@
-# Przetwarzanie-obraz-w
+# Przetwarzanie-obrazow
 Zadania z przedmiotu Przetwarzanie obrazów
